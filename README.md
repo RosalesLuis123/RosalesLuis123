@@ -1,19 +1,20 @@
-# 👋 ¡Hola, soy Juan!
+# 👋 ¡Hola, soy Nacho!
 
-💻 Desarrollador Full Stack con pasión por crear aplicaciones modernas y funcionales.  
-Me encanta trabajar con **Angular**, **Node.js** y **PostgreSQL**, y aprender nuevas tecnologías constantemente.
+💻 Desarrollador Full Stack apasionado por crear aplicaciones modernas y funcionales.  
+Me encanta trabajar con **Angular**, **Node.js** y **PostgreSQL**, y siempre estoy aprendiendo nuevas tecnologías.
 
 ---
 
 ## 🚀 Sobre mí
-- 🎯 Enfocado en construir proyectos web bien estructurados
-- 🌱 Actualmente aprendiendo **NestJS** y **TypeScript avanzado**
-- 💬 Pregúntame sobre **frontend, backend o integración de APIs**
-- 📫 Cómo contactarme: [juan@gmail.com](mailto:juan@gmail.com)
+- 🎯 Construyo proyectos web bien estructurados y escalables
+- 🌱 Actualmente profundizando en **NestJS** y **TypeScript avanzado**
+- 💬 Puedes preguntarme sobre **frontend, backend o integración de APIs**
+- 📫 Contáctame: [nacholuispalma@gmail.com](mailto:nacholuispalma@gmail.com)
 
 ---
 
 ## 🛠️ Tecnologías que uso
+
 ### 💻 Lenguajes y frameworks
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -24,25 +25,25 @@ Me encanta trabajar con **Angular**, **Node.js** y **PostgreSQL**, y aprender nu
 
 ---
 
-## 🧩 Mis proyectos destacados
+## 🧩 Proyectos destacados
 
-### 🎌 [AnimeAct](https://github.com/JuanDev/anime-act)
+### 🎌 [AnimeAct](https://github.com/RosalesLuis123/anime-act)
 Aplicación web para gestionar tu progreso de anime.  
-Frontend en Angular + Backend con Node + PostgreSQL.  
-**Funciones:** login JWT, favoritos, ver después, progreso, API de MyAnimeList.
+**Tecnologías:** Angular + Node.js + PostgreSQL  
+**Funciones destacadas:** login con JWT, favoritos, ver después, progreso y consumo de API de MyAnimeList.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanDev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDev&layout=compact&theme=tokyonight)
+![Nacho's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosalesLuis123&show_icons=true&theme=tokyonight)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=RosalesLuis123&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Encuéntrame en
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/RosalesLuis123)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RosalesLuis123)
 [![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-TuWeb.com-blue?style=for-the-badge)](https://tuweb.com)
 
 ---
