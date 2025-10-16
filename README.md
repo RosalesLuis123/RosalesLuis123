@@ -13,21 +13,12 @@
 
 ## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"> About Me
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
 - 🔭 Currently working on **Angular + Node.js + PostgreSQL** projects  
-- 🌱 Learning **NestJS & TypeScript avanzado**  
+- 🌱 Learning **NestJS & TypeScript avanzado** ![NestJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg)  
 - 👯 Looking to collaborate with **Fullstack Web Developers**  
 - 🤔 Open to contributing to **Open Source projects**  
 - ⚙️ Daily usage: `.ts`, `.js`, `.html`, `.css`, `.sql`, `.php`, `.kt`, `.ipynb`  
 - 💬 Ask me about **frontend, backend, APIs, PostgreSQL, Angular, PHP, Kotlin, Jupyter Notebook**
-</td>
-<td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-</td>
-</tr>
-</table>
 
 ---
 
@@ -47,7 +38,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/37/NestJS-logo-wordmark.svg" width="40" height="40"/>
 <img src="https://img.shields.io/badge/Blade-F7523F?style=flat-square"/>
 </p>
 
@@ -63,54 +54,49 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Projects
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px" height="50px"> My Projects
 
-<table align="center">
-<tr>
-<td width="50%">
-### AnimeAct
+### AnimeAct  
 **Language:** TypeScript ![TypeScript](https://img.shields.io/badge/TS-007ACC?style=flat-square&logo=typescript&logoColor=white)  
 **Type:** Public  
 **Repo:** [GitHub](https://github.com/RosalesLuis123/AnimeAct)  
-**Features:** JWT login, favorites, progress tracker, MyAnimeList API
-</td>
-<td width="50%">
-### Apuestas_Anime
+**Features:** JWT login, favorites, progress tracker, MyAnimeList API  
+
+---
+
+### Apuestas_Anime  
 **Language:** HTML ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
 **Type:** Public  
 **Repo:** [GitHub](https://github.com/RosalesLuis123/Apuestas_Anime)  
-**Features:** Betting app UI
-</td>
-</tr>
-<tr>
-<td width="50%">
-### Sistema-de-inventarios-laravel
+**Features:** Betting app UI  
+
+---
+
+### Sistema-de-inventarios-laravel  
 **Language:** Blade ![Blade](https://img.shields.io/badge/Blade-F7523F?style=flat-square)  
 **Type:** Public  
-**Repo:** [GitHub](https://github.com/RosalesLuis123/Sistema-de-inventarios-laravel)
-</td>
-<td width="50%">
-### Proyecto-Ambiental
+**Repo:** [GitHub](https://github.com/RosalesLuis123/Sistema-de-inventarios-laravel)  
+
+---
+
+### Proyecto-Ambiental  
 **Language:** JavaScript ![JS](https://img.shields.io/badge/JS-F7E017?style=flat-square&logo=javascript&logoColor=black)  
 **Type:** Public  
-**Repo:** [GitHub](https://github.com/RosalesLuis123/Proyecto-Ambiental)
-</td>
-</tr>
-<tr>
-<td width="50%">
-### Analisis-de-ventas-y-predicciones
+**Repo:** [GitHub](https://github.com/RosalesLuis123/Proyecto-Ambiental)  
+
+---
+
+### Analisis-de-ventas-y-predicciones  
 **Language:** Jupyter Notebook ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
 **Type:** Public  
-**Repo:** [GitHub](https://github.com/RosalesLuis123/Analisis-de-ventas-y-predicciones)
-</td>
-<td width="50%">
-### Aplicacion-de-deteccion-de-incendios
+**Repo:** [GitHub](https://github.com/RosalesLuis123/Analisis-de-ventas-y-predicciones)  
+
+---
+
+### Aplicacion-de-deteccion-de-incendios  
 **Language:** Kotlin ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)  
 **Type:** Public  
-**Repo:** [GitHub](https://github.com/RosalesLuis123/Aplicacion-de-deteccion-de-incendios)
-</td>
-</tr>
-</table>
+**Repo:** [GitHub](https://github.com/RosalesLuis123/Aplicacion-de-deteccion-de-incendios)  
 
 ---
 
