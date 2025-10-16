@@ -44,7 +44,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     </a>
     <a href="https://laravel.com/docs/blade" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="blade" width="40" height="40"/>
+        <img src="https://github.com/laravel/art/blob/master/laravel-logo.png" alt="blade" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -69,7 +69,6 @@
 |---------|---------|------|--------------|
 | AnimeAct | TypeScript | Public | 20 min ago |
 | Apuestas_Anime | HTML | Public | 15 h ago |
-| Mar-Ba | HTML | Private | 3 weeks ago |
 | Sistema-de-inventarios-laravel | Blade | Public | Jun 17 |
 | Proyecto-Ambiental | JavaScript | Public | May 2 |
 | Analisis-de-ventas-y-predicciones | Jupyter Notebook | Public | Jan 29 |
