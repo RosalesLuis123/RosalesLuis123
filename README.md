@@ -14,7 +14,7 @@
 ## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"> About Me
 
 - 🔭 Currently working on **Angular + Node.js + PostgreSQL** projects  
-- 🌱 Learning **NestJS & TypeScript avanzado** ![NestJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg)  
+- 🌱 Learning **NestJS & TypeScript avanzado**  
 - 👯 Looking to collaborate with **Fullstack Web Developers**  
 - 🤔 Open to contributing to **Open Source projects**  
 - ⚙️ Daily usage: `.ts`, `.js`, `.html`, `.css`, `.sql`, `.php`, `.kt`, `.ipynb`  
