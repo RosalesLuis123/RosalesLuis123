@@ -13,7 +13,7 @@
 
 ## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"> About Me
 
-- 🔭 Currently working on **Angular + Node.js + PostgreSQL** projects  
+- 🔭 Currently working on **Angular + Node.js + Spring-Boot + PostgreSQL** projects  
 - 🌱 Learning **NestJS & TypeScript avanzado**  
 - 👯 Looking to collaborate with **Fullstack Web Developers**  
 - 🤔 Open to contributing to **Open Source projects**  
@@ -40,6 +40,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/NestJS-logo-wordmark.svg" width="40" height="40"/>
 <img src="https://img.shields.io/badge/Blade-F7523F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 </p>
 
 ### Data & Others
@@ -97,6 +98,14 @@
 **Language:** Kotlin ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)  
 **Type:** Public  
 **Repo:** [GitHub](https://github.com/RosalesLuis123/Aplicacion-de-deteccion-de-incendios)  
+
+---
+
+### Mecanica 
+**Language:** TypeScript ![TypeScript](https://img.shields.io/badge/TS-007ACC?style=flat-square&logo=typescript&logoColor=white) 
+**Backend:** Spring-Boot ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)  
+**Type:** Public  
+**Repo:** [GitHub](https://github.com/RosalesLuis123/Mecanica)  
 
 ---
 
